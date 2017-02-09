@@ -1,0 +1,57 @@
+header {
+	background:#2c3e50;
+	color:#fff;
+}
+
+.main {
+	background:#f2f2f2;
+}
+
+.color1 {
+	background: #34495e;
+	color:#fff;
+}
+
+
+footer {
+	background:#16a085;
+	color:#fff;
+}
+
+.titulo-twitter{
+background: #D8D8D8;
+border-radius: 7px;
+font-size: 16px;
+}
+
+aside.col-xs-12.col-sm-4.col-md-3.col-lg-3{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.col-xs-12.col-sm-8.col-md-9.col-lg{
+	padding-bottom: 15px;
+}
+.social-header{
+	padding-top: 12px;
+}
+.menu-list{
+	color: rgb(82, 161, 244);
+	font-size: 16px;
+	font-weight: 500;
+}
+.menu-bar #:hover {
+	text-decoration: none;
+	color:#fff;
+}
+
+
+.col-xs-12.col-sm-8.col-md-9.col-lg-9.video{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.menu-bar.text-right{
+	background-color: rgb(186, 186, 186);
+	padding-top: 10px;
+}
